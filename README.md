@@ -1,2 +1,2 @@
-# NNPTUD_S5
-Code Hang Tuan
+Nguyen Thanh Ky
+MSSV 2180600741
